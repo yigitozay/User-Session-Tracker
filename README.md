@@ -1,0 +1,1 @@
+User Session Tracker is a Python script designed to monitor and report user login and logout activities across various systems. It processes a series of event data, organizing and displaying which users are currently logged into specific machines. 
